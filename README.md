@@ -4,7 +4,8 @@ Steganography tools allow users to hide data (like files or messages) within oth
 # What is Steganography Tool?
 Steganography refers to the practice of hiding a secret message inside or camouflaging it on top of something that is in plain sight. More recently, Steganography has started to involve embedding hidden texts in images or plating secret messages or scripts in a Word document or an Excel sheet.
 
-# Objective: File is provided in the File named as Steps to Follow
+# Objective
+File is provided in the File named as Steps to Follow and main.py is the Python File.
 
 # Tools Used 
 Python
